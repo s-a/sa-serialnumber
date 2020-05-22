@@ -1,6 +1,6 @@
 {
   "name": "@s-a/serialnumber",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Serialnumber genrator which supports sections based on delimiter",
   "main": "lib/index.js",
   "private": false,
