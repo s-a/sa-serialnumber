@@ -1,3 +1,4 @@
-# @sa/defaults
+# @sa/serialnumber
 
-Simply extend objects with default values
+Serial number generator with section support based on delimiter
+
